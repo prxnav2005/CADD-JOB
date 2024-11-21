@@ -1,14 +1,14 @@
-![schematic](image.png)
+![schematic](schematic.png)
 
 ### Waveforms
 
-![waveforms](image.png)
+![waveforms](waveforms.png)
 
 ### Technological schematic
 
-![technological-schematic](image.png)
+![technological-schematic](t_schem.png)
 
 ### Synthesis Report
 
-![report](image.png)
+![report](report.png)
 
